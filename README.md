@@ -1,3 +1,3 @@
 # Testes com nodejs
 
-### Testes utilizando o jest
+### Testes utilizando o vitest e supertest
